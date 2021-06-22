@@ -1,4 +1,4 @@
-# [React Native JS] Code review checklist
+# [React JS] Code review checklist
 
 ## 1.  Code formatting:
 - Use `prettier` extension with rules in your file `.prettierrc`
