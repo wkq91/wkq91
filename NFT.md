@@ -19,6 +19,8 @@
 
 #### _1. ETH_
 
+[ethereum-and-nfts](https://ethereum.org/en/nft/#ethereum-and-nfts)
+
 [ERC721介绍](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
 
 [ERC721实现](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
@@ -26,6 +28,10 @@
 [升级版ERC1155](https://www.frank.hk/blog/nft-erc1155/)
 
 #### _2. Solana_
+
+Solana是去年升幅最大的虛擬貨幣，最大賣點是其交易速度比以太坊快4000倍，一秒可以處理65,000項交易！
+
+https://www.coindesk.com/business/2022/01/19/jpmorgan-says-ethereum-is-losing-nft-market-share-to-solana/
 
 [metaplex](https://github.com/metaplex-foundation/metaplex)
 
