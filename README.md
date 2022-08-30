@@ -1,8 +1,5 @@
-<div align="left">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=wkq91" /><span>  </span>
-<span>  </span>
-</div>
+
+![info](https://github-readme-stats.vercel.app/api?username=wkq91&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
